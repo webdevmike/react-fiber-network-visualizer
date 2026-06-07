@@ -1,87 +1,15 @@
-# Welcome to React Router!
+# React Fiber Network Visualizer
 
-A modern, production-ready template for building full-stack React applications using React Router.
+A portfolio project that visualizes a fictional fiber optic network overlaid on a real map of Appleton, WI. The application displays network nodes and fiber routes on a Google Maps interface, allowing users to filter by route type, node type, and status. All network data is fabricated — this is not a real fiber deployment. It was built to demonstrate interactive map-based data visualization with React, TypeScript, and the Google Maps API.
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/remix-run/react-router-templates/tree/main/default)
+## Data Generation
 
-## Features
+The GeoJSON data in `public/data/` uses coordinates based on real Appleton street geometry. Street centerline shapefiles were downloaded from appletonwi.gov and converted from the NAD 1983 HARN WISCRS Outagamie County Feet projection to WGS84 lat/lng using [proj4](https://www.npmjs.com/package/proj4). Those coordinates were then used to place fabricated network infrastructure along actual streets.
 
-- 🚀 Server-side rendering
-- ⚡️ Hot Module Replacement (HMR)
-- 📦 Asset bundling and optimization
-- 🔄 Data loading and mutations
-- 🔒 TypeScript by default
-- 🎉 TailwindCSS for styling
-- 📖 [React Router docs](https://reactrouter.com/)
+## Live Demo
 
-## Getting Started
+[https://mikebostone.com/projects/react-fiber-network-visualizer](https://mikebostone.com/projects/react-fiber-network-visualizer)
 
-### Installation
+## Screenshots
 
-Install the dependencies:
-
-```bash
-npm install
-```
-
-### Development
-
-Start the development server with HMR:
-
-```bash
-npm run dev
-```
-
-Your application will be available at `http://localhost:5173`.
-
-## Building for Production
-
-Create a production build:
-
-```bash
-npm run build
-```
-
-## Deployment
-
-### Docker Deployment
-
-To build and run using Docker:
-
-```bash
-docker build -t my-app .
-
-# Run the container
-docker run -p 3000:3000 my-app
-```
-
-The containerized application can be deployed to any platform that supports Docker, including:
-
-- AWS ECS
-- Google Cloud Run
-- Azure Container Apps
-- Digital Ocean App Platform
-- Fly.io
-- Railway
-
-### DIY Deployment
-
-If you're familiar with deploying Node applications, the built-in app server is production-ready.
-
-Make sure to deploy the output of `npm run build`
-
-```
-├── package.json
-├── package-lock.json (or pnpm-lock.yaml, or bun.lockb)
-├── build/
-│   ├── client/    # Static assets
-│   └── server/    # Server-side code
-```
-
-## Styling
-
-This template comes with [Tailwind CSS](https://tailwindcss.com/) already configured for a simple default starting experience. You can use whatever CSS framework you prefer.
-
----
-
-Built with ❤️ using React Router.
+![Fiber Network Visualizer](public/screenshot.png)

@@ -1,0 +1,43 @@
+.filter {
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+  cursor: pointer;
+
+  &.bar {
+    .label-content {
+      flex-direction: column;
+    }
+
+    .label-display {
+      height: 10px;
+      width: 100px;
+    }
+  }
+
+  &.circle {
+    align-items: center;
+
+    .label-content {
+      align-items: center;
+      gap: 10px;
+    }
+
+    .label-display {
+      width: 20px;
+      height: 20px;
+      border-radius: 50%;
+    }
+  }
+
+  .label-content {
+    display: flex;
+    gap: 5px;
+  }
+
+  .label-text {
+    text-transform: capitalize;
+    font-size: 1.8rem;
+    user-select: none;
+  }
+}

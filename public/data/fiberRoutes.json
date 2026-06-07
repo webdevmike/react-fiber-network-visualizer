@@ -1,0 +1,3077 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.436,
+            44.244
+          ],
+          [
+            -88.426,
+            44.244
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_A01",
+        "status": "planned",
+        "type": "distribution",
+        "capacity": "24F",
+        "fromNode": "A01",
+        "toNode": "A02"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.426,
+            44.244
+          ],
+          [
+            -88.4154,
+            44.244
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_A02",
+        "status": "planned",
+        "type": "distribution",
+        "capacity": "24F",
+        "fromNode": "A02",
+        "toNode": "A03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.4154,
+            44.244
+          ],
+          [
+            -88.4011,
+            44.244
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_A03",
+        "status": "active",
+        "type": "distribution",
+        "capacity": "24F",
+        "fromNode": "A03",
+        "toNode": "A04"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.4011,
+            44.244
+          ],
+          [
+            -88.39,
+            44.244
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_A04",
+        "status": "active",
+        "type": "distribution",
+        "capacity": "24F",
+        "fromNode": "A04",
+        "toNode": "A05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.39,
+            44.244
+          ],
+          [
+            -88.37,
+            44.244
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_A05",
+        "status": "active",
+        "type": "distribution",
+        "capacity": "24F",
+        "fromNode": "A05",
+        "toNode": "A06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.37,
+            44.244
+          ],
+          [
+            -88.356,
+            44.244
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_A06",
+        "status": "planned",
+        "type": "distribution",
+        "capacity": "24F",
+        "fromNode": "A06",
+        "toNode": "A07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.436,
+            44.248
+          ],
+          [
+            -88.43,
+            44.248
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_B01",
+        "status": "active",
+        "type": "distribution",
+        "capacity": "48F",
+        "fromNode": "B01",
+        "toNode": "B02"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.43,
+            44.248
+          ],
+          [
+            -88.426,
+            44.248
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_B02",
+        "status": "active",
+        "type": "distribution",
+        "capacity": "48F",
+        "fromNode": "B02",
+        "toNode": "B03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.426,
+            44.248
+          ],
+          [
+            -88.4154,
+            44.248
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_B03",
+        "status": "outage",
+        "type": "distribution",
+        "capacity": "48F",
+        "fromNode": "B03",
+        "toNode": "B04"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.4154,
+            44.248
+          ],
+          [
+            -88.408,
+            44.248
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_B04",
+        "status": "outage",
+        "type": "distribution",
+        "capacity": "48F",
+        "fromNode": "B04",
+        "toNode": "B05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.408,
+            44.248
+          ],
+          [
+            -88.4011,
+            44.248
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_B05",
+        "status": "active",
+        "type": "distribution",
+        "capacity": "48F",
+        "fromNode": "B05",
+        "toNode": "B06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.4011,
+            44.248
+          ],
+          [
+            -88.39,
+            44.248
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_B06",
+        "status": "active",
+        "type": "distribution",
+        "capacity": "48F",
+        "fromNode": "B06",
+        "toNode": "B07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.39,
+            44.248
+          ],
+          [
+            -88.382,
+            44.248
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_B07",
+        "status": "active",
+        "type": "distribution",
+        "capacity": "24F",
+        "fromNode": "B07",
+        "toNode": "B08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.382,
+            44.248
+          ],
+          [
+            -88.37,
+            44.248
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_B08",
+        "status": "active",
+        "type": "distribution",
+        "capacity": "24F",
+        "fromNode": "B08",
+        "toNode": "B09"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.37,
+            44.248
+          ],
+          [
+            -88.356,
+            44.248
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_B09",
+        "status": "planned",
+        "type": "distribution",
+        "capacity": "24F",
+        "fromNode": "B09",
+        "toNode": "B10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.436,
+            44.252
+          ],
+          [
+            -88.4154,
+            44.252
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_C01",
+        "status": "active",
+        "type": "distribution",
+        "capacity": "24F",
+        "fromNode": "C01",
+        "toNode": "C02"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.4154,
+            44.252
+          ],
+          [
+            -88.4011,
+            44.252
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_C02",
+        "status": "active",
+        "type": "distribution",
+        "capacity": "24F",
+        "fromNode": "C02",
+        "toNode": "C03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.4011,
+            44.252
+          ],
+          [
+            -88.37,
+            44.252
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_C03",
+        "status": "active",
+        "type": "distribution",
+        "capacity": "24F",
+        "fromNode": "C03",
+        "toNode": "C04"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.37,
+            44.252
+          ],
+          [
+            -88.356,
+            44.252
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_C04",
+        "status": "planned",
+        "type": "distribution",
+        "capacity": "24F",
+        "fromNode": "C04",
+        "toNode": "C05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.436,
+            44.258
+          ],
+          [
+            -88.43,
+            44.258
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_D01",
+        "status": "active",
+        "type": "distribution",
+        "capacity": "48F",
+        "fromNode": "D01",
+        "toNode": "D02"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.43,
+            44.258
+          ],
+          [
+            -88.426,
+            44.258
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_D02",
+        "status": "active",
+        "type": "distribution",
+        "capacity": "48F",
+        "fromNode": "D02",
+        "toNode": "D03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.426,
+            44.258
+          ],
+          [
+            -88.4154,
+            44.258
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_D03",
+        "status": "active",
+        "type": "distribution",
+        "capacity": "48F",
+        "fromNode": "D03",
+        "toNode": "D04"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.4154,
+            44.258
+          ],
+          [
+            -88.408,
+            44.258
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_D04",
+        "status": "active",
+        "type": "distribution",
+        "capacity": "48F",
+        "fromNode": "D04",
+        "toNode": "D05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.408,
+            44.258
+          ],
+          [
+            -88.4011,
+            44.258
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_D05",
+        "status": "active",
+        "type": "distribution",
+        "capacity": "48F",
+        "fromNode": "D05",
+        "toNode": "D06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.4011,
+            44.258
+          ],
+          [
+            -88.39,
+            44.258
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_D06",
+        "status": "active",
+        "type": "distribution",
+        "capacity": "48F",
+        "fromNode": "D06",
+        "toNode": "D07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.39,
+            44.258
+          ],
+          [
+            -88.382,
+            44.258
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_D07",
+        "status": "active",
+        "type": "distribution",
+        "capacity": "48F",
+        "fromNode": "D07",
+        "toNode": "D08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.382,
+            44.258
+          ],
+          [
+            -88.37,
+            44.258
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_D08",
+        "status": "active",
+        "type": "distribution",
+        "capacity": "48F",
+        "fromNode": "D08",
+        "toNode": "D09"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.37,
+            44.258
+          ],
+          [
+            -88.363,
+            44.258
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_D09",
+        "status": "active",
+        "type": "distribution",
+        "capacity": "24F",
+        "fromNode": "D09",
+        "toNode": "D10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.363,
+            44.258
+          ],
+          [
+            -88.356,
+            44.258
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_D10",
+        "status": "active",
+        "type": "distribution",
+        "capacity": "24F",
+        "fromNode": "D10",
+        "toNode": "D11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.436,
+            44.2634
+          ],
+          [
+            -88.43,
+            44.2634
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_E01",
+        "status": "active",
+        "type": "backbone",
+        "capacity": "96F",
+        "fromNode": "E01",
+        "toNode": "E02"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.43,
+            44.2634
+          ],
+          [
+            -88.426,
+            44.2634
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_E02",
+        "status": "active",
+        "type": "backbone",
+        "capacity": "96F",
+        "fromNode": "E02",
+        "toNode": "E03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.426,
+            44.2634
+          ],
+          [
+            -88.4154,
+            44.2634
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_E03",
+        "status": "active",
+        "type": "backbone",
+        "capacity": "96F",
+        "fromNode": "E03",
+        "toNode": "E04"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.4154,
+            44.2634
+          ],
+          [
+            -88.408,
+            44.2634
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_E04",
+        "status": "active",
+        "type": "backbone",
+        "capacity": "96F",
+        "fromNode": "E04",
+        "toNode": "E05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.408,
+            44.2634
+          ],
+          [
+            -88.4011,
+            44.2634
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_E05",
+        "status": "active",
+        "type": "backbone",
+        "capacity": "96F",
+        "fromNode": "E05",
+        "toNode": "E06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.4011,
+            44.2634
+          ],
+          [
+            -88.39,
+            44.2634
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_E06",
+        "status": "planned",
+        "type": "backbone",
+        "capacity": "96F",
+        "fromNode": "E06",
+        "toNode": "E07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.39,
+            44.2634
+          ],
+          [
+            -88.382,
+            44.2634
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_E07",
+        "status": "planned",
+        "type": "backbone",
+        "capacity": "48F",
+        "fromNode": "E07",
+        "toNode": "E08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.382,
+            44.2634
+          ],
+          [
+            -88.37,
+            44.2634
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_E08",
+        "status": "planned",
+        "type": "backbone",
+        "capacity": "48F",
+        "fromNode": "E08",
+        "toNode": "E09"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.37,
+            44.2634
+          ],
+          [
+            -88.363,
+            44.2634
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_E09",
+        "status": "planned",
+        "type": "backbone",
+        "capacity": "48F",
+        "fromNode": "E09",
+        "toNode": "E10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.363,
+            44.2634
+          ],
+          [
+            -88.356,
+            44.2634
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_E10",
+        "status": "planned",
+        "type": "backbone",
+        "capacity": "48F",
+        "fromNode": "E10",
+        "toNode": "E11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.436,
+            44.275
+          ],
+          [
+            -88.426,
+            44.275
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_F01",
+        "status": "planned",
+        "type": "distribution",
+        "capacity": "48F",
+        "fromNode": "F01",
+        "toNode": "F02"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.426,
+            44.275
+          ],
+          [
+            -88.4154,
+            44.275
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_F02",
+        "status": "planned",
+        "type": "distribution",
+        "capacity": "48F",
+        "fromNode": "F02",
+        "toNode": "F03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.4154,
+            44.275
+          ],
+          [
+            -88.408,
+            44.275
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_F03",
+        "status": "active",
+        "type": "distribution",
+        "capacity": "48F",
+        "fromNode": "F03",
+        "toNode": "F04"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.408,
+            44.275
+          ],
+          [
+            -88.4011,
+            44.275
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_F04",
+        "status": "active",
+        "type": "distribution",
+        "capacity": "48F",
+        "fromNode": "F04",
+        "toNode": "F05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.4011,
+            44.275
+          ],
+          [
+            -88.39,
+            44.275
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_F05",
+        "status": "planned",
+        "type": "distribution",
+        "capacity": "48F",
+        "fromNode": "F05",
+        "toNode": "F06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.39,
+            44.275
+          ],
+          [
+            -88.382,
+            44.275
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_F06",
+        "status": "planned",
+        "type": "distribution",
+        "capacity": "24F",
+        "fromNode": "F06",
+        "toNode": "F07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.382,
+            44.275
+          ],
+          [
+            -88.37,
+            44.275
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_F07",
+        "status": "planned",
+        "type": "distribution",
+        "capacity": "24F",
+        "fromNode": "F07",
+        "toNode": "F08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.37,
+            44.275
+          ],
+          [
+            -88.356,
+            44.275
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_F08",
+        "status": "planned",
+        "type": "distribution",
+        "capacity": "24F",
+        "fromNode": "F08",
+        "toNode": "F09"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.4154,
+            44.287
+          ],
+          [
+            -88.408,
+            44.287
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_G01",
+        "status": "active",
+        "type": "distribution",
+        "capacity": "48F",
+        "fromNode": "G01",
+        "toNode": "G02"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.408,
+            44.287
+          ],
+          [
+            -88.4011,
+            44.287
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_G02",
+        "status": "planned",
+        "type": "distribution",
+        "capacity": "24F",
+        "fromNode": "G02",
+        "toNode": "G03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.4011,
+            44.287
+          ],
+          [
+            -88.39,
+            44.287
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_G03",
+        "status": "planned",
+        "type": "distribution",
+        "capacity": "24F",
+        "fromNode": "G03",
+        "toNode": "G04"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.39,
+            44.287
+          ],
+          [
+            -88.37,
+            44.287
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_G04",
+        "status": "planned",
+        "type": "distribution",
+        "capacity": "24F",
+        "fromNode": "G04",
+        "toNode": "G05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.436,
+            44.244
+          ],
+          [
+            -88.436,
+            44.248
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_V01",
+        "status": "planned",
+        "type": "distribution",
+        "capacity": "24F",
+        "fromNode": "A01",
+        "toNode": "B01"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.436,
+            44.248
+          ],
+          [
+            -88.436,
+            44.252
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_V02",
+        "status": "active",
+        "type": "distribution",
+        "capacity": "24F",
+        "fromNode": "B01",
+        "toNode": "C01"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.436,
+            44.252
+          ],
+          [
+            -88.436,
+            44.258
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_V03",
+        "status": "active",
+        "type": "distribution",
+        "capacity": "24F",
+        "fromNode": "C01",
+        "toNode": "D01"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.436,
+            44.258
+          ],
+          [
+            -88.436,
+            44.2634
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_V04",
+        "status": "active",
+        "type": "distribution",
+        "capacity": "24F",
+        "fromNode": "D01",
+        "toNode": "E01"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.436,
+            44.2634
+          ],
+          [
+            -88.436,
+            44.275
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_V05",
+        "status": "planned",
+        "type": "distribution",
+        "capacity": "24F",
+        "fromNode": "E01",
+        "toNode": "F01"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.4154,
+            44.244
+          ],
+          [
+            -88.4154,
+            44.248
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_V10",
+        "status": "active",
+        "type": "backbone",
+        "capacity": "96F",
+        "fromNode": "A03",
+        "toNode": "B04"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.4154,
+            44.248
+          ],
+          [
+            -88.4154,
+            44.252
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_V11",
+        "status": "outage",
+        "type": "backbone",
+        "capacity": "96F",
+        "fromNode": "B04",
+        "toNode": "C02"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.4154,
+            44.252
+          ],
+          [
+            -88.4154,
+            44.258
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_V12",
+        "status": "active",
+        "type": "backbone",
+        "capacity": "96F",
+        "fromNode": "C02",
+        "toNode": "D04"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.4154,
+            44.258
+          ],
+          [
+            -88.4154,
+            44.2634
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_V13",
+        "status": "active",
+        "type": "backbone",
+        "capacity": "96F",
+        "fromNode": "D04",
+        "toNode": "E04"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.4011,
+            44.244
+          ],
+          [
+            -88.4011,
+            44.248
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_V20",
+        "status": "active",
+        "type": "distribution",
+        "capacity": "48F",
+        "fromNode": "A04",
+        "toNode": "B06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.4011,
+            44.248
+          ],
+          [
+            -88.4011,
+            44.252
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_V21",
+        "status": "active",
+        "type": "distribution",
+        "capacity": "48F",
+        "fromNode": "B06",
+        "toNode": "C03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.4011,
+            44.252
+          ],
+          [
+            -88.4011,
+            44.258
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_V22",
+        "status": "active",
+        "type": "distribution",
+        "capacity": "48F",
+        "fromNode": "C03",
+        "toNode": "D06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.4011,
+            44.258
+          ],
+          [
+            -88.4011,
+            44.2634
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_V23",
+        "status": "active",
+        "type": "distribution",
+        "capacity": "48F",
+        "fromNode": "D06",
+        "toNode": "E06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.4011,
+            44.2634
+          ],
+          [
+            -88.4011,
+            44.275
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_V24",
+        "status": "planned",
+        "type": "distribution",
+        "capacity": "48F",
+        "fromNode": "E06",
+        "toNode": "F05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.4011,
+            44.275
+          ],
+          [
+            -88.4011,
+            44.287
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_V25",
+        "status": "planned",
+        "type": "distribution",
+        "capacity": "48F",
+        "fromNode": "F05",
+        "toNode": "G03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.39,
+            44.244
+          ],
+          [
+            -88.39,
+            44.248
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_V30",
+        "status": "active",
+        "type": "distribution",
+        "capacity": "24F",
+        "fromNode": "A05",
+        "toNode": "B07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.39,
+            44.248
+          ],
+          [
+            -88.39,
+            44.258
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_V31",
+        "status": "active",
+        "type": "distribution",
+        "capacity": "24F",
+        "fromNode": "B07",
+        "toNode": "D07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.39,
+            44.258
+          ],
+          [
+            -88.39,
+            44.2634
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_V32",
+        "status": "planned",
+        "type": "distribution",
+        "capacity": "24F",
+        "fromNode": "D07",
+        "toNode": "E07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.39,
+            44.2634
+          ],
+          [
+            -88.39,
+            44.275
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_V33",
+        "status": "planned",
+        "type": "distribution",
+        "capacity": "24F",
+        "fromNode": "E07",
+        "toNode": "F06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.39,
+            44.275
+          ],
+          [
+            -88.39,
+            44.287
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_V34",
+        "status": "planned",
+        "type": "distribution",
+        "capacity": "24F",
+        "fromNode": "F06",
+        "toNode": "G04"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.37,
+            44.244
+          ],
+          [
+            -88.37,
+            44.248
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_V40",
+        "status": "active",
+        "type": "backbone",
+        "capacity": "96F",
+        "fromNode": "A06",
+        "toNode": "B09"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.37,
+            44.248
+          ],
+          [
+            -88.37,
+            44.252
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_V41",
+        "status": "active",
+        "type": "backbone",
+        "capacity": "96F",
+        "fromNode": "B09",
+        "toNode": "C04"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.37,
+            44.252
+          ],
+          [
+            -88.37,
+            44.258
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_V42",
+        "status": "active",
+        "type": "backbone",
+        "capacity": "96F",
+        "fromNode": "C04",
+        "toNode": "D09"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.37,
+            44.258
+          ],
+          [
+            -88.37,
+            44.2634
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_V43",
+        "status": "active",
+        "type": "backbone",
+        "capacity": "96F",
+        "fromNode": "D09",
+        "toNode": "E09"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.37,
+            44.2634
+          ],
+          [
+            -88.37,
+            44.275
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_V44",
+        "status": "planned",
+        "type": "backbone",
+        "capacity": "96F",
+        "fromNode": "E09",
+        "toNode": "F08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.37,
+            44.275
+          ],
+          [
+            -88.37,
+            44.287
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_V45",
+        "status": "planned",
+        "type": "backbone",
+        "capacity": "96F",
+        "fromNode": "F08",
+        "toNode": "G05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.436,
+            44.287
+          ],
+          [
+            -88.432,
+            44.287
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_GW1",
+        "status": "planned",
+        "type": "distribution",
+        "capacity": "48F",
+        "fromNode": "G_FW",
+        "toNode": "G_WC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.432,
+            44.287
+          ],
+          [
+            -88.43,
+            44.287
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_GW2",
+        "status": "planned",
+        "type": "distribution",
+        "capacity": "48F",
+        "fromNode": "G_WC",
+        "toNode": "G_WB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.43,
+            44.287
+          ],
+          [
+            -88.426,
+            44.287
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_GW3",
+        "status": "planned",
+        "type": "distribution",
+        "capacity": "48F",
+        "fromNode": "G_WB",
+        "toNode": "G_WA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.426,
+            44.287
+          ],
+          [
+            -88.4154,
+            44.287
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_GW4",
+        "status": "planned",
+        "type": "distribution",
+        "capacity": "48F",
+        "fromNode": "G_WA",
+        "toNode": "G01"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.436,
+            44.28
+          ],
+          [
+            -88.432,
+            44.28
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_IW1",
+        "status": "planned",
+        "type": "distribution",
+        "capacity": "48F",
+        "fromNode": "I_FW",
+        "toNode": "I_WC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.432,
+            44.28
+          ],
+          [
+            -88.43,
+            44.28
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_IW2",
+        "status": "planned",
+        "type": "distribution",
+        "capacity": "48F",
+        "fromNode": "I_WC",
+        "toNode": "I_WB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.43,
+            44.28
+          ],
+          [
+            -88.426,
+            44.28
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_IW3",
+        "status": "planned",
+        "type": "distribution",
+        "capacity": "48F",
+        "fromNode": "I_WB",
+        "toNode": "I_WA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.426,
+            44.28
+          ],
+          [
+            -88.4154,
+            44.28
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_IW4",
+        "status": "active",
+        "type": "distribution",
+        "capacity": "48F",
+        "fromNode": "I_WA",
+        "toNode": "I_MEM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.4154,
+            44.28
+          ],
+          [
+            -88.408,
+            44.28
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_IW5",
+        "status": "active",
+        "type": "distribution",
+        "capacity": "48F",
+        "fromNode": "I_MEM",
+        "toNode": "I_CB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.436,
+            44.27
+          ],
+          [
+            -88.432,
+            44.27
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_HW1",
+        "status": "planned",
+        "type": "distribution",
+        "capacity": "48F",
+        "fromNode": "H_FW",
+        "toNode": "H_WC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.432,
+            44.27
+          ],
+          [
+            -88.43,
+            44.27
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_HW2",
+        "status": "planned",
+        "type": "distribution",
+        "capacity": "48F",
+        "fromNode": "H_WC",
+        "toNode": "H_WB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.43,
+            44.27
+          ],
+          [
+            -88.426,
+            44.27
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_HW3",
+        "status": "planned",
+        "type": "distribution",
+        "capacity": "48F",
+        "fromNode": "H_WB",
+        "toNode": "H_WA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.426,
+            44.27
+          ],
+          [
+            -88.4154,
+            44.27
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_HW4",
+        "status": "active",
+        "type": "distribution",
+        "capacity": "48F",
+        "fromNode": "H_WA",
+        "toNode": "H_MEM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.432,
+            44.244
+          ],
+          [
+            -88.432,
+            44.248
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_WCV1",
+        "status": "planned",
+        "type": "distribution",
+        "capacity": "24F",
+        "fromNode": "WC_A",
+        "toNode": "WC_B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.432,
+            44.248
+          ],
+          [
+            -88.432,
+            44.252
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_WCV2",
+        "status": "active",
+        "type": "distribution",
+        "capacity": "24F",
+        "fromNode": "WC_B",
+        "toNode": "WC_C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.432,
+            44.252
+          ],
+          [
+            -88.432,
+            44.258
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_WCV3",
+        "status": "active",
+        "type": "distribution",
+        "capacity": "24F",
+        "fromNode": "WC_C",
+        "toNode": "WC_D"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.432,
+            44.258
+          ],
+          [
+            -88.432,
+            44.2634
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_WCV4",
+        "status": "active",
+        "type": "distribution",
+        "capacity": "24F",
+        "fromNode": "WC_D",
+        "toNode": "WC_E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.432,
+            44.2634
+          ],
+          [
+            -88.432,
+            44.275
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_WCV5",
+        "status": "planned",
+        "type": "distribution",
+        "capacity": "24F",
+        "fromNode": "WC_E",
+        "toNode": "WC_F"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.432,
+            44.275
+          ],
+          [
+            -88.432,
+            44.27
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_WCV6",
+        "status": "planned",
+        "type": "distribution",
+        "capacity": "24F",
+        "fromNode": "WC_F",
+        "toNode": "H_WC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.432,
+            44.27
+          ],
+          [
+            -88.432,
+            44.28
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_WCV7",
+        "status": "planned",
+        "type": "distribution",
+        "capacity": "24F",
+        "fromNode": "H_WC",
+        "toNode": "I_WC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.432,
+            44.28
+          ],
+          [
+            -88.432,
+            44.287
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_WCV8",
+        "status": "planned",
+        "type": "distribution",
+        "capacity": "24F",
+        "fromNode": "I_WC",
+        "toNode": "G_WC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.436,
+            44.244
+          ],
+          [
+            -88.432,
+            44.244
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_WCH1",
+        "status": "planned",
+        "type": "distribution",
+        "capacity": "24F",
+        "fromNode": "A01",
+        "toNode": "WC_A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.436,
+            44.248
+          ],
+          [
+            -88.432,
+            44.248
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_WCH2",
+        "status": "active",
+        "type": "distribution",
+        "capacity": "48F",
+        "fromNode": "B01",
+        "toNode": "WC_B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.436,
+            44.252
+          ],
+          [
+            -88.432,
+            44.252
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_WCH3",
+        "status": "active",
+        "type": "distribution",
+        "capacity": "24F",
+        "fromNode": "C01",
+        "toNode": "WC_C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.436,
+            44.258
+          ],
+          [
+            -88.432,
+            44.258
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_WCH4",
+        "status": "active",
+        "type": "distribution",
+        "capacity": "48F",
+        "fromNode": "D01",
+        "toNode": "WC_D"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.436,
+            44.2634
+          ],
+          [
+            -88.432,
+            44.2634
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_WCH5",
+        "status": "active",
+        "type": "backbone",
+        "capacity": "96F",
+        "fromNode": "E01",
+        "toNode": "WC_E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.436,
+            44.275
+          ],
+          [
+            -88.432,
+            44.275
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_WCH6",
+        "status": "planned",
+        "type": "distribution",
+        "capacity": "48F",
+        "fromNode": "F01",
+        "toNode": "WC_F"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.436,
+            44.27
+          ],
+          [
+            -88.432,
+            44.27
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_WCH7",
+        "status": "planned",
+        "type": "distribution",
+        "capacity": "24F",
+        "fromNode": "H_FW",
+        "toNode": "H_WC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.436,
+            44.28
+          ],
+          [
+            -88.432,
+            44.28
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_WCH8",
+        "status": "planned",
+        "type": "distribution",
+        "capacity": "24F",
+        "fromNode": "I_FW",
+        "toNode": "I_WC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.436,
+            44.287
+          ],
+          [
+            -88.432,
+            44.287
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_WCH9",
+        "status": "planned",
+        "type": "distribution",
+        "capacity": "24F",
+        "fromNode": "G_FW",
+        "toNode": "G_WC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.436,
+            44.275
+          ],
+          [
+            -88.436,
+            44.27
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_FWN1",
+        "status": "planned",
+        "type": "distribution",
+        "capacity": "24F",
+        "fromNode": "F01",
+        "toNode": "H_FW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.436,
+            44.27
+          ],
+          [
+            -88.436,
+            44.28
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_FWN2",
+        "status": "planned",
+        "type": "distribution",
+        "capacity": "24F",
+        "fromNode": "H_FW",
+        "toNode": "I_FW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.436,
+            44.28
+          ],
+          [
+            -88.436,
+            44.287
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_FWN3",
+        "status": "planned",
+        "type": "distribution",
+        "capacity": "24F",
+        "fromNode": "I_FW",
+        "toNode": "G_FW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.43,
+            44.2634
+          ],
+          [
+            -88.43,
+            44.275
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_WBN1",
+        "status": "planned",
+        "type": "distribution",
+        "capacity": "24F",
+        "fromNode": "E02",
+        "toNode": "WB_F"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.43,
+            44.275
+          ],
+          [
+            -88.43,
+            44.27
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_WBN2",
+        "status": "planned",
+        "type": "distribution",
+        "capacity": "24F",
+        "fromNode": "WB_F",
+        "toNode": "H_WB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.43,
+            44.27
+          ],
+          [
+            -88.43,
+            44.28
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_WBN3",
+        "status": "planned",
+        "type": "distribution",
+        "capacity": "24F",
+        "fromNode": "H_WB",
+        "toNode": "I_WB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.43,
+            44.28
+          ],
+          [
+            -88.43,
+            44.287
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_WBN4",
+        "status": "planned",
+        "type": "distribution",
+        "capacity": "24F",
+        "fromNode": "I_WB",
+        "toNode": "G_WB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.426,
+            44.275
+          ],
+          [
+            -88.426,
+            44.27
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_WAN1",
+        "status": "planned",
+        "type": "distribution",
+        "capacity": "24F",
+        "fromNode": "F02",
+        "toNode": "H_WA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.426,
+            44.27
+          ],
+          [
+            -88.426,
+            44.28
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_WAN2",
+        "status": "planned",
+        "type": "distribution",
+        "capacity": "24F",
+        "fromNode": "H_WA",
+        "toNode": "I_WA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.426,
+            44.28
+          ],
+          [
+            -88.426,
+            44.287
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_WAN3",
+        "status": "planned",
+        "type": "distribution",
+        "capacity": "24F",
+        "fromNode": "I_WA",
+        "toNode": "G_WA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.4154,
+            44.2634
+          ],
+          [
+            -88.4154,
+            44.27
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_MN1",
+        "status": "active",
+        "type": "backbone",
+        "capacity": "96F",
+        "fromNode": "E04",
+        "toNode": "H_MEM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.4154,
+            44.27
+          ],
+          [
+            -88.4154,
+            44.275
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_MN2",
+        "status": "active",
+        "type": "backbone",
+        "capacity": "96F",
+        "fromNode": "H_MEM",
+        "toNode": "F03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.4154,
+            44.275
+          ],
+          [
+            -88.4154,
+            44.28
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_MN3",
+        "status": "active",
+        "type": "backbone",
+        "capacity": "96F",
+        "fromNode": "F03",
+        "toNode": "I_MEM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.4154,
+            44.28
+          ],
+          [
+            -88.4154,
+            44.287
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_MN4",
+        "status": "active",
+        "type": "backbone",
+        "capacity": "96F",
+        "fromNode": "I_MEM",
+        "toNode": "G01"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.408,
+            44.275
+          ],
+          [
+            -88.408,
+            44.28
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_CBN1",
+        "status": "active",
+        "type": "distribution",
+        "capacity": "48F",
+        "fromNode": "F04",
+        "toNode": "I_CB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.408,
+            44.28
+          ],
+          [
+            -88.408,
+            44.287
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_CBN2",
+        "status": "active",
+        "type": "distribution",
+        "capacity": "48F",
+        "fromNode": "I_CB",
+        "toNode": "G02"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.356,
+            44.244
+          ],
+          [
+            -88.356,
+            44.248
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_V50",
+        "status": "planned",
+        "type": "distribution",
+        "capacity": "24F",
+        "fromNode": "A07",
+        "toNode": "B10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.356,
+            44.248
+          ],
+          [
+            -88.356,
+            44.252
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_V51",
+        "status": "planned",
+        "type": "distribution",
+        "capacity": "24F",
+        "fromNode": "B10",
+        "toNode": "C05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.356,
+            44.252
+          ],
+          [
+            -88.356,
+            44.258
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_V52",
+        "status": "planned",
+        "type": "distribution",
+        "capacity": "24F",
+        "fromNode": "C05",
+        "toNode": "D11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.356,
+            44.258
+          ],
+          [
+            -88.356,
+            44.2634
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_V53",
+        "status": "planned",
+        "type": "distribution",
+        "capacity": "24F",
+        "fromNode": "D11",
+        "toNode": "E11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.356,
+            44.2634
+          ],
+          [
+            -88.356,
+            44.275
+          ]
+        ]
+      },
+      "properties": {
+        "id": "S_V54",
+        "status": "planned",
+        "type": "distribution",
+        "capacity": "24F",
+        "fromNode": "E11",
+        "toNode": "F09"
+      }
+    }
+  ]
+}

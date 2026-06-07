@@ -42,6 +42,10 @@ export function Layout({ children }: { children: React.ReactNode }) {
   );
 }
 
+export function HydrateFallback() {
+  return null;
+}
+
 export default function App() {
   return <Outlet />;
 }
@@ -63,7 +67,7 @@ export function ErrorBoundary({ error }: Route.ErrorBoundaryProps) {
   }
 
   return (
-    <main style={{ paddingTop: 64, padding: 16, maxWidth: 1024, margin: "0 auto" }}>
+    <main className="error-page">
       <h1>{message}</h1>
       <p>{details}</p>
       {stack && (

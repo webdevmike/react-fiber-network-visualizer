@@ -1,8 +1,9 @@
 import type { Config } from "@react-router/dev/config";
+import { basePath } from "./app/config";
 
 export default {
   ssr: false,
-  prerender: true,
+  basename: basePath,
   future: {
     v8_middleware: true,
     v8_passThroughRequests: true,

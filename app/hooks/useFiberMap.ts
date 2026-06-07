@@ -194,7 +194,7 @@ export function useFiberMap() {
   const handleMapLoad = (map: google.maps.Map) => {
     // Fiber routes
     fiberRoutesLayerRef.current = new google.maps.Data({ map });
-    fetch("/data/fiberRoutes.json")
+    fetch("data/fiberRoutes.json")
       .then(
         (r) =>
           r.json() as Promise<FeatureCollection<LineString, FiberRouteProps>>,
@@ -225,7 +225,7 @@ export function useFiberMap() {
 
     // Fiber nodes
     fiberNodesLayerRef.current = new google.maps.Data({ map });
-    fetch("/data/fiberNodes.json")
+    fetch("data/fiberNodes.json")
       .then(
         (r) => r.json() as Promise<FeatureCollection<Point, FiberNodeProps>>,
       )

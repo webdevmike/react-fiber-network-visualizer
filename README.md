@@ -4,11 +4,11 @@ A project that visualizes a fictional fiber optic network overlaid on a real map
 
 ## Data Generation
 
-The GeoJSON data in `public/data/` uses coordinates based on real Appleton street geometry. Street centerline shapefiles were downloaded from appletonwi.gov and converted from the NAD 1983 HARN WISCRS Outagamie County Feet projection to WGS84 lat/lng using [proj4](https://www.npmjs.com/package/proj4). Those coordinates were then used to place fabricated network infrastructure along actual streets.
+The GeoJSON data in `public/data/` uses coordinates based on real Appleton street geometry. Street centerline shapefiles were downloaded from [appletonwi.gov](https://appletonwi.gov) and converted from the NAD 1983 HARN WISCRS Outagamie County Feet projection to WGS84 lat/lng using [proj4](https://www.npmjs.com/package/proj4). Those coordinates were then used to place fabricated network infrastructure along actual streets.
 
 ## Live Demo
 
-[https://mikebostone.com/projects/react-fiber-network-visualizer](https://mikebostone.com/projects/react-fiber-network-visualizer)
+[https://mikebostone.com/projects/react-fiber-network-visualizer/](https://mikebostone.com/projects/react-fiber-network-visualizer/)
 
 ## Screenshots
 

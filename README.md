@@ -1,6 +1,6 @@
 # React Fiber Network Visualizer
 
-A project that visualizes a fictional fiber optic network overlaid on a real map of Appleton, WI. The application displays network nodes and fiber routes on a Google Maps interface, allowing users to filter by route type, node type, and status. All network data is fabricated — this is not a real fiber deployment. It was built to demonstrate interactive map-based data visualization with React, TypeScript, and the Google Maps API.
+A project that displays a fictional fiber optic network overlaid on a real map of Appleton, WI. The application displays network nodes and fiber routes on a Google Maps interface, allowing users to filter by route type, node type, and status. All network data is fabricated. It was built to demonstrate interactive map-based data visualization with React, TypeScript, and the Google Maps API.
 
 ## Data Generation
 

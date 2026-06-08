@@ -67,3 +67,9 @@ h4 {
 .error-page {
   padding: 16px;
 }
+
+.error-page pre {
+  width: 100%;
+  padding: 16px;
+  overflow-x: auto;
+}

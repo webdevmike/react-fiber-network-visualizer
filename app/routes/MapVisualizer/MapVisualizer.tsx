@@ -1,3 +1,4 @@
+import type { Route } from "./+types/MapVisualizer";
 import { GoogleMap, InfoWindow } from "@react-google-maps/api";
 import FilterCheckbox from "~/components/FilterCheckbox/FilterCheckbox";
 import {
@@ -11,6 +12,17 @@ import {
 } from "./constants";
 import { useMapVisualizer } from "./useMapVisualizer";
 import styles from "./MapVisualizer.module.css";
+
+export function meta({}: Route.MetaArgs) {
+  return [
+    { title: "Fiber Network Visualizer" },
+    {
+      name: "description",
+      content:
+        "Interactive map displaying a fictional fiber optic network in Appleton, WI. Filter by route type, node type, and status.",
+    },
+  ];
+}
 
 export default function MapVisualizer() {
   const {
